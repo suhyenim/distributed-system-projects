@@ -3,12 +3,12 @@
 UDP, Distributed key-value stores, Look-aside cache, Power of two choices(Load balancing), Primary-backup, Consensus protocol 등 분산시스템 설계 및 구현
 ```
 .
-├── hw1-udp-echo
-├── hw2-distributed-kvstores
-├── hw3-look-aside-cache
-├── hw4-power-of-two-choices
-├── hw5-primary-backup
-├── hw6-consensus-protocol
+├── ds1-udp-echo
+├── ds2-distributed-kvstores
+├── ds3-look-aside-cache
+├── ds4-power-of-two-choices
+├── ds5-primary-backup
+├── ds6-consensus-protocol
 
 ```
 <br>
